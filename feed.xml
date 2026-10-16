@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://cdn.jsdelivr.net/gh/KeiphCodes/in-the-beginning-feed@main/feed.xml" rel="self" type="application/rss+xml" />
+    <title>In The Beginning</title>
+    <link>https://cdn.jsdelivr.net/gh/KeiphCodes/in-the-beginning-feed@main/feed.xml</link>
+    <language>en-us</language>
+    <description><![CDATA[Walking through the Bible from page one, story by story. Caleb reads each section from the King James Bible and talks through it in plain language, ending with a short prayer. New episodes on weekdays.]]></description>
+    <managingEditor>Ivyindustrieswork@gmail.com (Caleb)</managingEditor>
+    <itunes:author>Caleb</itunes:author>
+    <itunes:summary><![CDATA[Walking through the Bible from page one, story by story. Caleb reads each section from the King James Bible and talks through it in plain language, ending with a short prayer. New episodes on weekdays.]]></itunes:summary>
+    <itunes:owner>
+      <itunes:name>Caleb</itunes:name>
+      <itunes:email>Ivyindustrieswork@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/in-the-beginning-feed@main/art.jpg" />
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>In The Beginning #1: Let There Be Light (Genesis 1, Part 1)</title>
+      <description><![CDATA[Caleb opens the Bible at page one and walks Genesis chapter one slowly, a section at a time from the King James with plain talk in between: God there before anything, light in the dark, the sky stretched out, dry land and green things, and the two great lights. Verses one through nineteen, days one through four.]]></description>
+      <pubDate>Fri, 16 Oct 2026 15:35:43 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/in-the-beginning-feed@main/ep1.mp3" length="9329866" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/in-the-beginning-feed@main/ep1.mp3</guid>
+      <itunes:author>Caleb</itunes:author>
+      <itunes:summary><![CDATA[Caleb opens the Bible at page one and walks Genesis chapter one slowly, a section at a time from the King James with plain talk in between: God there before anything, light in the dark, the sky stretched out, dry land and green things, and the two great lights. Verses one through nineteen, days one through four.]]></itunes:summary>
+      <itunes:duration>12:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/in-the-beginning-feed@main/art.jpg" />
+    </item>
+  </channel>
+</rss>
